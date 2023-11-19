@@ -1,5 +1,5 @@
 .sobre__descricao {
-    color: #595959;
+    color: var(--cinza-300);
     font-weight: 300;
 }
 

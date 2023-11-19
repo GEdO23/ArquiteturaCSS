@@ -1,6 +1,6 @@
 .sobre__titulo {
-    color: #8D0606;
-    font-family: 'Pacifico', cursive;
+    color: var(--vinho);
+    font-family: var(--fonte-principal);
 }
 
 @media screen and (min-width: 0) {

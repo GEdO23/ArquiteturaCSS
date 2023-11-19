@@ -1,5 +1,5 @@
 .receitas {
-    background: #e5e5e5;
+    background: var(--cinza-100);
     display: flex;
     flex-wrap: wrap;
 }

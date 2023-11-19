@@ -1,0 +1,17 @@
+:root {
+    --fonte-principal: 'Pacifico', cursive;
+    --fonte-secundaria: 'Roboto', sans-serif;
+
+    --branco: #FFFFFF;
+    --preto: #000000;
+    --vinho: #8D0606;
+    --vinho-escuro: #8D0606;
+    --cinza-50: #F8F9FA;
+    --cinza-100: #F1F1F1;
+    --cinza-200: #C4C4C4;
+    --cinza-300: #8C8888;
+    --cinza-400: #333333;
+    --preto-o75: #000000BF;
+    --preto-o50: #00000080;
+
+}
